@@ -18,7 +18,7 @@ Pictures shown in the jupyter inline matplotlib will be saved as png files durin
 
 2. Project Motivation
 
-The Notebook represents the Project 1 of Data Science Nanodegree Course. It's output and 
+The Notebook represents the Project 1 of Data Science Nanodegree Course. It's output and interpretation can be dfound at [my GitHub Blog Page](https://ubiquarum66.github.io/).
 
 3. File Descriptions
 
