@@ -22,8 +22,8 @@ The Notebook represents the Project 1 of Data Science Nanodegree Course. It's ou
 
 3. File Descriptions
 
-+ survey_results_public.csv : 2015 Stack Overflow user survey
-+ survey_results_schema.csv : 2015 schema questions and categories of survey
++ survey_results_public.csv : 2017 Stack Overflow user survey
++ survey_results_schema.csv : 2017 schema questions and categories of survey
 + c.csv : shortened excerpt of survey_results_public.csv for debug purposes
 + udacity_dsnd_report1.ipynb : notebook
 
