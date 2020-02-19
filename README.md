@@ -12,7 +12,7 @@ Table of Contents:
 The jupyter notebook for Project 1 is called udacity_dsnd_report1.ipynb.
 It is tested to run with Python 3.7 and Anaconda with installed packages Pandas, Numpy, Matplotlib and Seaborn.
 
-For debugging purpose, a.csv is a excerpt of survey_results_public.csv with only a few lines.
+For debugging purpose, c.csv is a excerpt of survey_results_public.csv with only a few lines.
 
 Pictures shown in the jupyter inline matplotlib will be saved as png files during running.
 
@@ -24,7 +24,7 @@ The Notebook represents the Project 1 of Data Science Nanodegree Course. It's ou
 
 + survey_results_public.csv : 2015 Stack Overflow user survey
 + survey_results_schema.csv : 2015 schema questions and categories of survey
-+ a.csv : shortened excerpt of survey_results_public.csv for debug purposes
++ c.csv : shortened excerpt of survey_results_public.csv for debug purposes
 + udacity_dsnd_report1.ipynb : notebook
 
 4. How to Interact with your project
